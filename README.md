@@ -28,7 +28,8 @@ A target and knowledge on how to leverage these finding maps
 ## To Do
 
 * Create seperate folders for each type of offensive cyber security engagement
-* Create seperate view by phase and step of each type of engagement
+* Create seperate view based on phase and step of each type of engagement
+* Create seperate view based on what piece is targeted (For example: By Request Headers, By Response, By Parameter Fuzzing)
 * Add a brief description, overview, note or other relevant information to each mind map finding
 * Add a link to tool, wordlist, example or similar to each mind map finding
 
