@@ -31,6 +31,8 @@ Note it outputs all three files to the users home directory
 
 * Create Seperate Folders for Each type of offensive cyber security engagement
 * Create seperate view by phase and step of each type of engagement
+* Add a brief description, overview, note or other relevant information to each mind map finding
+* Add a link to tool, wordlist, example or similar to each mind map finding
 
 ## License
 
