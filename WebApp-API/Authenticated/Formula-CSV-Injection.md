@@ -1,1 +1,0 @@
-![Formula/CSV/XLS/XLSX Injection](https://gainsec.com/wp-content/uploads/2023/12/Auth-FormulaCSV-Injection.png)
