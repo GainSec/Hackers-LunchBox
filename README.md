@@ -1,4 +1,4 @@
-# LunchBox
+# The Hackers LunchBox
 ![LUNCHBOCKS](https://gainsec.com/wp-content/uploads/2023/12/L.U.N.C.H.B.O.C.K.S.png)
 
 High level attack and finding maps for all your penetration testing, hacking, bug bounty and red teaming needs! To be more specific, this is a collection of Finding/Vulnerability/Attack Path/Exploit Mind Maps meant to assist in more findings, better vulnerability chains and a clearer path of how and where to test, look and leverage what you're encountering during an engagement.
