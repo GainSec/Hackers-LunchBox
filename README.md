@@ -22,7 +22,7 @@ A target and knowledge on how to leverage these finding maps
 ## Authors
 
 * **Jon Gaines** - *Creator* - [GainSec](https://github.com/GainSec)
-* **Russell Glober** - *Contributor* - [TBD](TBD)
+* **Russell Glober** - *Contributor*
 * **Will** - *Contributor* - [TBD](TBD)
 
 ## To Do
