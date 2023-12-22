@@ -7,6 +7,12 @@ High level attack and finding maps for all your penetration testing, hacking, bu
 
 git clone https://github.com/GainSec/LunchBox 
 
+### Map Key
+
+Yellow is starting point
+Red is the Finding/Vulnerability/Exploit
+Any parenthesis are relevant parameters, or other information to note
+
 ### Prerequisites
 
 A target and knowledge on how to leverage these finding maps
