@@ -9,9 +9,9 @@ git clone https://github.com/GainSec/LunchBox
 
 ### Map Key
 
-Yellow is starting point
-Red is the Finding/Vulnerability/Exploit
-Any parenthesis are relevant parameters, or other information to note
+* Yellow is starting point
+* Red is the Finding/Vulnerability/Exploit
+* Any parenthesis are relevant parameters, or other information to note
 
 ### Prerequisites
 
